@@ -1,0 +1,7 @@
+/////////////////////////////////////////////
+//// Features planned for future updates ////
+/////////////////////////////////////////////
+
+1. Event tracking on Buttons/State Change (priority)
+2. Firebase SDK implementation (priority)
+3. Firebase email authentication signin 
